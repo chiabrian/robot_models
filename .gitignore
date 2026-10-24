@@ -1,0 +1,4 @@
+*.FCBak
+/Robot Forker/Forker/Debug/*
+/FW/Debug/*
+*.zip
